@@ -18,12 +18,6 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.2'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
-gem 'carrierwave'
-gem 'mini_magick'
-gem 'fog'
-
-gem 'carrierwave'
-gem 'mini_magick'
 gem 'fog', require: 'fog/aws'
 gem 'figaro'
 
