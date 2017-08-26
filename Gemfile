@@ -22,6 +22,11 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
 
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog', require: 'fog/aws'
+gem 'figaro'
+
 
 # gem for bootstrap
 gem 'bootstrap-sass'
